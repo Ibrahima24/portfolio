@@ -1,5 +1,8 @@
+/* Structure */
+
+/* Background color for website */
 body{
-    background-color: #5B552E;
+    background-color: #FFFAFA;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -13,6 +16,7 @@ h2{
     text-align: center;
 }
 
+/* Photo size */
 img{
     width: 500px;
     height: 500px;
